@@ -32,7 +32,8 @@ Buka file `routes/api.php` dan tambahkan route berikut:
 IV. Testing API dengan Postman
 1. Jalankan server Laravel:
 ![image](https://github.com/user-attachments/assets/c5ff6077-1a8e-4b52-a4ce-5bb518540df0)
-2. Testing endpoint menggunakan Postman:
+![image](https://github.com/user-attachments/assets/8427e271-6871-4bfb-8763-baf41dfbdd8c)
+3. Testing endpoint menggunakan Postman:
    A.	GET Semua Kategori
 •	Method: GET
 •	URL: http://localhost:8000/api/kategoris
